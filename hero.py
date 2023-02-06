@@ -20,7 +20,6 @@ class SuperHero:
     def __len__(self):
         return len(self.catchphrase)
 
-
 hero = SuperHero("Сайтама", "One Punch Man", "Бесподобная сила", 1000,
                  "Завтрашние заботы пускай останутся завтрашнему мне")
 hero.display_name()
