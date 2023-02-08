@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52d22c44-4582-49a1-95b9-ab2ef2258c1f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/дуыыщт2.py" beforeDir="false" />
-    </list>
+    <list default="true" id="52d22c44-4582-49a1-95b9-ab2ef2258c1f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +156,7 @@
       <workItem from="1675678316494" duration="4304000" />
       <workItem from="1675703387133" duration="1433000" />
       <workItem from="1675782946202" duration="1476000" />
-      <workItem from="1675872981909" duration="2891000" />
+      <workItem from="1675872981909" duration="3200000" />
     </task>
     <servers />
   </component>
